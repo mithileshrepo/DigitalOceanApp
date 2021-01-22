@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DigitalOcean"
+    }
+  },
+  "defaultProject": "DigitalOcean",
+  "cli": {
+    "analytics": "f49de4f3-7c7b-4705-936a-bc14c578d672"
+  }
 }
